@@ -1,2 +1,4 @@
 # old_projects
-first couple projects
+First Couple Projects I worked on, before working on LinkedIn Scraper.
+Scrapes websites, GMATClub and ClearAdmit and saves data into Excel file.
+Done for practicing purposes only.
